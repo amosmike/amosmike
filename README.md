@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/105168503/175774014-e7e33113-41a4-4d29-b506-7121fc4e9334.gif)](https://github.com/amosmike)
 
 ### Michael Amos' Profile
-🔭 I’m currently working on cloud systems
+🔭 I’m currently working on **cloud systems**
 
 <!--
 **amosmike/amosmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
