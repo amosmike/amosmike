@@ -1,6 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/105168503/175774014-e7e33113-41a4-4d29-b506-7121fc4e9334.gif)](https://github.com/amosmike)
+<h3 align="center">[![MasterHead](https://user-images.githubusercontent.com/105168503/175774014-e7e33113-41a4-4d29-b506-7121fc4e9334.gif)](https://github.com/amosmike)</h3>
 
 ### Michael Amos' Profile
+<h3 align="center">A mechanical engineer transitioning into Machine Learning engineering.</h3>
+
 🔭 I’m currently working on **cloud systems**
 
 <!--
