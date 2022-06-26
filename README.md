@@ -2,7 +2,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/105168503/175774014-e7e33113-41a4-4d29-b506-7121fc4e9334.gif)](https://github.com/amosmike)
 <img align="right" src="[https://user-images.githubusercontent.com/105168503/175774014-e7e33113-41a4-4d29-b506-7121fc4e9334.gif]" alt="" width="400"  />
 -->
-<h1 align="center">Michael Amos</h1>
+<h1 align="center">Mike Amos</h1>
 <h3 align="center">A Mechanical engineer transitioning into Machine Learning engineering.</h3>
 
 
