@@ -35,7 +35,7 @@ Among my main set of skills, I would highlight:
 📊 Machine Learning 
 
 <!--🤖 Deep Learning (Tensorflow and Pytorch)--> 
-🔭 I’m currently working on **Cloud systems**
+🔭 I’m currently working on **Neural Networks**
 
 If you have any question about any repos, or would like to contact me, don't hesitate to reach out though:
 
